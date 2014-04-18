@@ -14,22 +14,12 @@ header {
     box-shadow: 0px 5px 7px #8db7bd;
     -webkit-box-shadow: 0px 5px 7px #8db7bd;
     -moz-box-shadow: 0px 5px 7px #8db7bd;
-    height: 400px;
     background-color: #8db7bd;
     border-bottom: 1px solid #698b91
 }
 
-footer {
-    box-shadow: 0px -5px 7px #8db7bd;
-    -webkit-box-shadow: 0px -5px 7px #8db7bd;
-    -moz-box-shadow: 0px -5px 7px #8db7bd;
-    background-color: #8db7bd;
-    border-top: 1px solid #698b91;
-    position: relative;
-}
-
 h1 {
-    font-size: 100px;
+    font-size: 60px;
     font-weight: normal;
     margin: 0;
     font-family: 'Sansita One', cursive;
